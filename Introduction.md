@@ -29,23 +29,49 @@ Sketches of a workflow in Spain. At a very high level here are some things we ne
 
     1. Jenkins - widely adopted, lots of plugins, coming soon to a theater new you?
     2. Cruise Control - smaller user base, less plugins. Current state.
+    3. Ant
+    4. Maven
+    5. Bamboo
+    6. Yeoman (?)
 
 
 #### Measure
 
     There are lots of tools to get measurements and do other tricks. Some are free some not so much.
+    Show Slow doesn't get measurements as much as it accumulates and displays measurements from other tools.
 
-    1. [WebPageTest](http://www.webpagetest.org)<http://www.webpagetest.org>
+    1. [WebPageTest](http://www.webpagetest.org)
     2. [Catchpoint](http://www.catchpoint.com)
     3. [Sitespeed.io](http://www.sitespeed.io)
     4. Pagespeed
     5. [YSlow](http://www.yslow.com)
+    6. dynatrace/gomez
+    7. Keynote
+    8. Akamai
 
 #### Task Runners
 
     Several options here. Gulp seems to be easier to understand and use. Not saying that Grunt is bad it's just
-    some people like peas and others like carrorts. If you can't find a Gulp task to do what a Grunt task can you can
+    some people like peas and others like carrots. If you can't find a Gulp task to do what a Grunt task can you can
     always go get the Node package (npm) gulp-grunt and add it to your project.
+
+    1. Gulp
+    2. Grunt
+    3. Custom JavaScript
+
+#### Data Visualization
+
+    Again lots of opportunities here. Some are easier to use than others and of course free and not so much.
+    I'm including some tools that might be more properly called data listeners or pipes than visualizers.
+    Mentioning Show Slow again here.
+
+    1. Graphite
+      1. Grafana
+    2. D3.js
+    3. Raphael.js
+    4. StatsD
+    5. Show Slow
+
 
 
 #### References
