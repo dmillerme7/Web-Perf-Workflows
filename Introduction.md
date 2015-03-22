@@ -10,7 +10,7 @@ This is not intended to be a recommendation of any tools, sites or process other
 Sketches of a workflow in Spain. At a very high level here are some things we need to accomplish
 
 1. Some build process completes
-2. The build process completion triggers an event of calls on a module to initialize
+2. The build process completion triggers an event or calls on a module to initialize
 3. this module or process then fires off s series of tasks
 4. after these tasks complete results are generated
 5. these results (metrics) are saved somewhere, somehow
@@ -58,6 +58,12 @@ Sketches of a workflow in Spain. At a very high level here are some things we ne
     1. Gulp
     2. Grunt
     3. Custom JavaScript
+
+#### Data format
+
+    1. JSON
+    2. CSV
+    3. HAR (JSON)
 
 #### Data Visualization
 
