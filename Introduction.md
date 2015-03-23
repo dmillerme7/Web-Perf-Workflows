@@ -54,10 +54,13 @@ Sketches of a workflow in Spain. At a very high level here are some things we ne
     Several options here. Gulp seems to be easier to understand and use. Not saying that Grunt is bad it's just
     some people like peas and others like carrots. If you can't find a Gulp task to do what a Grunt task can you can
     always go get the Node package (npm) gulp-grunt and add it to your project.
+    Including some other tools under this category that seem to fit better here that elsewhere like Selenium and Phantom.js
 
     1. Gulp
     2. Grunt
     3. Custom JavaScript
+    4. Phantom.js
+    5. Selenium
 
 #### Data format
 
