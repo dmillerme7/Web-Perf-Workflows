@@ -45,9 +45,9 @@ Sketches of a workflow in Spain. At a very high level here are some things we ne
     3. [Sitespeed.io](http://www.sitespeed.io)
     4. Pagespeed
     5. [YSlow](http://www.yslow.com)
-    6. dynatrace/gomez
-    7. Keynote
-    8. Akamai
+    6. [dynatrace/gomez](http://www.dynatrace.com)
+    7. [Keynote](http://www.keynote.com)
+    8. [Akamai](http://www.akamai.com)
 
 #### Task Runners
 
@@ -80,14 +80,11 @@ Sketches of a workflow in Spain. At a very high level here are some things we ne
     3. Raphael.js
     4. StatsD
     5. Show Slow
+    6. Excel
+    7. Highcharts
 
 
 
 #### References
 
     Some of the too many links and references found on the interwebs.
-
-
-
-
-
